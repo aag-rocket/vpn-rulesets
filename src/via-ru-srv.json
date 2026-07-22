@@ -2,7 +2,8 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": ["amxeox.xyz", "flextest-live-update.example"]
+      "domain": ["ifconfig.io"],
+      "domain_suffix": ["amxeox.xyz"]
     }
   ]
 }
