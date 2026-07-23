@@ -3,16 +3,7 @@
   "rules": [
     {
       "domain": ["ifconfig.io"],
-      "domain_suffix": [
-        "amxeox.xyz",
-        "gemini.google.com",
-        "bard.google.com",
-        "aistudio.google.com",
-        "makersuite.google.com",
-        "gstatic.com",
-        "googleapis.com",
-        "googletagmanager.com"
-      ]
+      "domain_suffix": ["amxeox.xyz"]
     }
   ]
 }
