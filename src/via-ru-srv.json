@@ -6,11 +6,15 @@
       "domain_suffix": [
         "amxeox.xyz",
         "gemini.google.com",
+        "bard.google.com",
         "aistudio.google.com",
         "makersuite.google.com",
         "generativelanguage.googleapis.com",
         "alkalimakersuite-pa.clients6.google.com",
-        "proactivebackend-pa.googleapis.com"
+        "proactivebackend-pa.googleapis.com",
+        "waa-pa.clients6.google.com",
+        "clients6.google.com",
+        "content-push.googleapis.com"
       ]
     }
   ]
