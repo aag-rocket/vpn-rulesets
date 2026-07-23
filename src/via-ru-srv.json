@@ -2,7 +2,7 @@
   "version": 1,
   "rules": [
     {
-      "domain": ["ifconfig.io"],
+      "domain": ["ifconfig.io", "gemini.gstatic.com"],
       "domain_suffix": [
         "amxeox.xyz",
         "gemini.google.com",
@@ -15,7 +15,8 @@
         "proactivebackend-pa.googleapis.com",
         "waa-pa.clients6.google.com",
         "clients6.google.com",
-        "content-push.googleapis.com"
+        "content-push.googleapis.com",
+        "googletagmanager.com"
       ]
     }
   ]
