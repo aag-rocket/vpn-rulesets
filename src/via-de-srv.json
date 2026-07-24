@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "google.com",
+        "googleapis.com",
+        "gstatic.com",
+        "googleusercontent.com",
+        "withgoogle.com",
+        "googlevideo.com",
+        "youtube.com",
+        "ytimg.com",
+        "ggpht.com"
+      ]
+    }
+  ]
+}
