@@ -3,15 +3,24 @@
   "rules": [
     {
       "domain_suffix": [
+        "aistudio.google.com",
+        "alkalimakersuite-pa.clients6.google.com",
+        "gemini.google.com",
+        "generativelanguage.googleapis.com",
+        "ggpht.com",
+        "google-analytics.com",
         "google.com",
         "googleapis.com",
-        "gstatic.com",
+        "googletagmanager.com",
         "googleusercontent.com",
-        "withgoogle.com",
         "googlevideo.com",
+        "gstatic.com",
+        "makersuite.google.com",
+        "proactivebackend-pa.googleapis.com",
+        "withgoogle.com",
         "youtube.com",
-        "ytimg.com",
-        "ggpht.com"
+        "youtubei.googleapis.com",
+        "ytimg.com"
       ]
     }
   ]

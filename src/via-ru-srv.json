@@ -2,8 +2,10 @@
   "version": 1,
   "rules": [
     {
-      "domain": ["ifconfig.io"],
-      "domain_suffix": ["amxeox.xyz"]
+      "domain_suffix": [
+        "amxeox.xyz",
+        "ifconfig.io"
+      ]
     }
   ]
 }
