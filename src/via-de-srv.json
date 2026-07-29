@@ -3,6 +3,7 @@
   "rules": [
     {
       "domain_suffix": [
+        "admin.chillbet.net",
         "aistudio.google.com",
         "alkalimakersuite-pa.clients6.google.com",
         "gemini.google.com",
